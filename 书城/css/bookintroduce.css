@@ -1,0 +1,14 @@
+.section_1{margin: 0 auto;width: 70%;height: 400px;background-color: #669EFC;overflow: hidden;}
+.bookimg{width: 300px;height: 360px;border: 1px solid #0000CC;float: left;margin: 10px;padding: 10px;}
+.bookimg img{width: 300px;height: 360px;}
+.writer{height: 300px;float: left;position: relative;top: 25px;left: 100px;}
+.writer table{width: 350px;color: white;}
+.writer table td{padding: 8px;}
+.writer table tr:nth-child(odd){background-color: rgba(255,255,255,0.2);}
+.section_2{margin: 0 auto;width: 70%;background-color: #6699CC;}
+.section_2 h1{color: black;font-family: simkai;font-size: 30px;padding: 1px;}
+.section_2 p{font-family: simkai;text-indent: 30px;line-height: 2em;padding: 5px;}
+.writerintroduction{background-color: rgba(0,0,0,0.2);}
+.list{background-color: rgba(0,0,0,0.1);}
+.list ul{color: white;position: relative;left: 10px;line-height: 2em;}
+hr{background-color: #0000CC;width: 130px;height: 5px;}
